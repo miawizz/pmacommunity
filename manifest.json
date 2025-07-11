@@ -1,6 +1,6 @@
 {
   "name": "Play Mode Activators",
-  "short_name": "Play Mode",
+  "short_name": "Play Mode Activators",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
